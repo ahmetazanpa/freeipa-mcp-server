@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-freeipa
+python-multipart
+aiofiles
+python-jose[cryptography]
+passlib[bcrypt]
+fastmcp==1.0
+starlette
